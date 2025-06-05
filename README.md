@@ -13,10 +13,10 @@
 <table>
   <tr>
     <td>
-      ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fethicekinmez&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fethicekinmez&show_icons=true&theme=tokyonight)
     </td>
     <td>
-      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fethicekinmez&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fethicekinmez&layout=compact&theme=tokyonight)
     </td>
   </tr>
 </table>
