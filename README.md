@@ -11,17 +11,9 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-
-## 📈 My GitHub Stats
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fethicekinmez&show_icons=true&theme=tokyonight)
-
 ---
-
-## 📊 Top Languages
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fethicekinmez&layout=compact&theme=tokyonight)
-
 ---
 
 ## 🌟 Projects & Interests
