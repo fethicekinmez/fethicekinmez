@@ -16,11 +16,6 @@
 
 ## 🌟 Projects & Interests
 
-- 🚀 Reaction wheels for satellite control  
-- 🧠 Learning Qt and building desktop interfaces  
-- 🔌 TCP client-server communication with Python  
-- 🔍 Using Google APIs for real-world data retrieval  
-
 ---
 
 _Thanks for visiting my profile! 😊_
