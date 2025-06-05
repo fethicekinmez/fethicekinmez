@@ -20,23 +20,10 @@
 
 ## 📊 Top Languages
 
-<div align="center">
-  <table>
-    <tr>
-      <td><b>By Code Usage</b></td>
-      <td><b>By Number of Repos</b></td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fethicekinmez&layout=compact&theme=tokyonight" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fethicekinmez&layout=compact&theme=tokyonight&langs_count=10&sort=repo" />
-      </td>
-    </tr>
-  </table>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
 ---
+
 ## 🌟 Projects & Interests
 
 ---
