@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Fethi
 
-## 🧰 Tech Stack
+## 🧰 My Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -12,9 +12,15 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 My GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fethicekinmez&show_icons=true&theme=tokyonight)
+
+---
+
+## 📊 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
