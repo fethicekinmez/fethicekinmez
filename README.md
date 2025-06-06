@@ -18,7 +18,7 @@
 </div>
 
 
-## 🌟 Projects & Interests
+## 🌟 Projects
 
 ---
 
